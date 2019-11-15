@@ -3,9 +3,15 @@ Objective:
 
 Machine Learning - Unsupervised Learning - Clustering worldwide countries based on the economic norms and human life styles
 
+
+
+
 Background:
 
 Jupyter Notebook entitled in this repository pragmatic to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then suggesting countries to different NGO foundations to focus on the most direst help seeking countries.
+
+
+
 
 Tasks performed:
 
