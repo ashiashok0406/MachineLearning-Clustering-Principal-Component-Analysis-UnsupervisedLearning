@@ -21,3 +21,9 @@ Tasks performed:
 4. Anlysing the clusters and identifying the ones which are in dire need of aid. Anlysing the clusters by comparing how variables - [gdpp, child_mort and income] vary for each cluster of countries to recognise and differentiate the clusters of developed countries from the clusters of under-developed countries.
 5. Performing visualisations on the clusters that have been formed.  Plotting a scatter plot of all the countries and differentiating the clusters.
 6. Identifying 5 countries needing help on urgent basis
+
+Files in Repository:
+1. Clustering_&_PCA_Anlysis_PythonCode.ipynb 
+    Python code explaining the steps involved and analysis visualisations 
+2. Clustering & PCA Analysis - Insights.pdf
+    PDF document explaining analysis in detail
